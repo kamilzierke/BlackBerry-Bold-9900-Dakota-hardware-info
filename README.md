@@ -32,6 +32,7 @@ Details on the keyboard module and its connection to the main board.
 ![IMG_20250410_194109](https://github.com/user-attachments/assets/d906f341-acb3-444f-af41-1bafa86089d4)  
 ![IMG_20250410_200123](https://github.com/user-attachments/assets/eb2ae9e7-f264-4f89-a94f-5fed7b633aa2)  
 ![IMG_20250410_200058](https://github.com/user-attachments/assets/3f6d236e-fa2f-467d-82ac-b41290bc1dc6)
+![image](https://github.com/user-attachments/assets/1da14a53-19d5-4897-8eb5-48bd9d98c481)
 
 ---
 
