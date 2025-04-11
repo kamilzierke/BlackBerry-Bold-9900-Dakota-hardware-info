@@ -56,7 +56,15 @@ Details on the keyboard module and its connection to the main board.
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><sub>Bottom view (from under the phone)</sub></td>
+    <td align="center"><sub>Right side view</sub></td>
+    <td align="center"><sub>Top view (from above the phone)</sub></td>
+    <td align="center"><sub>Top-down close-up</sub></td>
+    <td align="center"><sub>Pin shape detail</sub></td>
+  </tr>
 </table>
+
 
 ### 🔄 Possible Alternatives
 
