@@ -131,7 +131,42 @@ Details on the keyboard module and its connection to the main board.
 </table>
 
 
+### 🔄 Possible Alternatives
 
+**Suggested compatible part:**  
+<table>
+  <tr>
+    <td>
+      <b>Hirose BM20B(0.8)-34DP-0.4V(51/53)</b><br>
+      Similar contact shape and overall dimensions.
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/assets/5f6738dd-7398-40e4-bb4e-1322d9dac021" target="_blank">
+        <img src="https://github.com/user-attachments/assets/5f6738dd-7398-40e4-bb4e-1322d9dac021" width="120"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/assets/547dcd17-afe2-477c-8d1e-4222617958ff" target="_blank">
+        <img src="https://github.com/user-attachments/assets/547dcd17-afe2-477c-8d1e-4222617958ff" width="120"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/assets/34f14914-d4a5-4d75-8ff6-972c03210aa5" target="_blank">
+        <img src="https://github.com/user-attachments/assets/34f14914-d4a5-4d75-8ff6-972c03210aa5" width="120"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/assets/1cfb15e0-ee56-447f-be85-aca8322518db" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1cfb15e0-ee56-447f-be85-aca8322518db" width="120"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/assets/eddf6c2a-5be4-4481-91e1-317fb8147fe3" target="_blank">
+        <img src="https://github.com/user-attachments/assets/eddf6c2a-5be4-4481-91e1-317fb8147fe3" width="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
