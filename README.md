@@ -26,7 +26,7 @@ Details on the keyboard module and its connection to the main board.
 | Solder pitch         | 0.4 mm                                                                 |
 | Contact shape        | Receptacle pins shaped like **U/S**                                   |
 
-#### Socket photos:
+#### Socket photos (on board):
 
 <table>
   <tr>
@@ -94,6 +94,42 @@ Details on the keyboard module and its connection to the main board.
     </td>
   </tr>
 </table>
+
+### 🔌 Flex Cable Plug
+
+| Parameter            | Value                                                                  |
+|----------------------|------------------------------------------------------------------------|
+| Marking              | `S1H`                                                                  |
+| Total pins           | 2 rows of 17 pins (34 total)                                           |
+| Additional pads      | 4 corner pads for mechanical support (holding side clips)                              |
+| Dimensions           | Approx. 8 mm × - × -                                   |
+| Connection pitch     | 0.4 mm                                                                 |
+| Solder pitch         | 0.4 mm                                                                 |
+| Contact shape        | Wall pins shaped like upside U                                 |
+
+#### Plug photos (on flex):
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/user-attachments/assets/5575d3fe-62ba-4794-bd4f-1b08071a9f0d" target="_blank">
+        <img src="https://github.com/user-attachments/assets/5575d3fe-62ba-4794-bd4f-1b08071a9f0d" width="120"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/assets/33ccbb7d-97d8-4d4d-9d92-24561f29e5d5" target="_blank">
+        <img src="https://github.com/user-attachments/assets/33ccbb7d-97d8-4d4d-9d92-24561f29e5d5" width="120"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/assets/5b2f966d-c64e-46d0-a0ba-f7d35acee7fb" target="_blank">
+        <img src="https://github.com/user-attachments/assets/5b2f966d-c64e-46d0-a0ba-f7d35acee7fb" width="120"/>
+      </a>
+    </td>
+
+  </tr>
+</table>
+
 
 
 
